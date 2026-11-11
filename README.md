@@ -52,6 +52,15 @@ Retail-Sales-Business-Performance-Analysis/
 
 ### Power BI Dashboard
 Two interactive dashboard pages were created:
+### Dashboard Preview
+
+**Page 1: Executive Overview**
+
+![Executive Overview](Executive_Overview.png)
+
+**Page 2: Product & Customer Insights**
+
+![Product & Customer Insights](Product_Customer_Insights.png)
 
 1. **Executive Overview**
    - Total Revenue
